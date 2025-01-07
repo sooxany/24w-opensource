@@ -1,0 +1,4 @@
+# Node.js 모듈 폴더
+node_modules/
+
+.env
